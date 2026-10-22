@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "repository": "Daily-Sponsoring-Jobs",
+  "capturedAt": "2026-10-22T18:24:27.364Z",
+  "inspected": 30,
+  "eligible": 27,
+  "rows": 20,
+  "excluded": {
+    "unverified_posting_evidence": 2,
+    "unsupported_posting_polarity": 1
+  },
+  "sourceSha256": "321759faf9a1e207b842ab52ba8a07441e7a6c2ad686531c94f9433382b9d8fc",
+  "readmeSha256": "047737228a391b0bbc096f0c346ff81ddea2b1a89322e6470505f9a981a7853b"
+}

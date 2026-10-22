@@ -1,0 +1,13 @@
+{
+  "repository": "Daily-Sponsoring-Jobs",
+  "runtime": "Node.js 24",
+  "runtimeNpmInstallRequired": false,
+  "bundledDependencies": {
+    "zod": "4.6.7"
+  },
+  "buildTool": {
+    "esbuild": "0.25.12"
+  },
+  "bundleSha256": "cc3ce402dd9e6400559bf6de5f922ece1156724d9ee388fdd11cd8cdcc4bbcbe",
+  "sourceAdaptation": "Checked generator and collector; repository constant restricted to this repo; shared taxonomy constants copied verbatim."
+}
