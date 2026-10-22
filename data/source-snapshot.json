@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "capturedAt": "2026-10-22T18:24:27.364Z",
+  "capturedAt": "2026-10-22T18:41:40.077Z",
   "baseUrl": "https://imbajobs.com",
   "candidateLimit": 30,
   "rowLimit": 20,
@@ -9,7 +9,7 @@
     {
       "repository": "Daily-Sponsoring-Jobs",
       "url": "https://imbajobs.com/api/jobs?country=US&type=all&q=&sponsor=sponsors&limit=30&page=1",
-      "fetchedAt": "2026-10-22T18:23:21.011Z",
+      "fetchedAt": "2026-10-22T18:41:18.926Z",
       "total": 2136,
       "candidates": [
         "staff-machine-learning-engineer-data-curation-at-wayve-iitcz8",
@@ -48,7 +48,7 @@
   "details": [
     {
       "url": "https://imbajobs.com/api/jobs/audit-operations-lead-at-anthropic-tylvce",
-      "fetchedAt": "2026-10-22T18:23:34.930Z",
+      "fetchedAt": "2026-10-22T18:41:19.640Z",
       "job": {
         "id": "15ba9e93-db2f-447b-9a78-0befb737d96d",
         "slug": "audit-operations-lead-at-anthropic-tylvce",
@@ -83,7 +83,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/email-designer-at-superpower-oc0dg0",
-      "fetchedAt": "2026-10-22T18:23:37.486Z",
+      "fetchedAt": "2026-10-22T18:41:20.342Z",
       "job": {
         "id": "a774efdb-4d41-4dbc-8420-e22126c975d8",
         "slug": "email-designer-at-superpower-oc0dg0",
@@ -109,7 +109,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/engineering-manager-finance-engineering-at-anthropic-hsbmie",
-      "fetchedAt": "2026-10-22T18:23:39.022Z",
+      "fetchedAt": "2026-10-22T18:41:21.045Z",
       "job": {
         "id": "171723ad-09ca-4356-bee6-f2f3dd7000a7",
         "slug": "engineering-manager-finance-engineering-at-anthropic-hsbmie",
@@ -144,7 +144,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/founder-associate-at-clera-8q3le6",
-      "fetchedAt": "2026-10-22T18:23:45.526Z",
+      "fetchedAt": "2026-10-22T18:41:21.738Z",
       "job": {
         "id": "d6a2213c-5f90-4dc7-9e25-dd87103509b9",
         "slug": "founder-associate-at-clera-8q3le6",
@@ -170,7 +170,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/founding-engineer-applied-ai-at-clera-51tg3b",
-      "fetchedAt": "2026-10-22T18:23:46.615Z",
+      "fetchedAt": "2026-10-22T18:41:22.436Z",
       "job": {
         "id": "93d37337-fbfc-4239-aa33-143b07ebcb30",
         "slug": "founding-engineer-applied-ai-at-clera-51tg3b",
@@ -196,7 +196,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/founding-forward-deployed-engineer-at-clera-t1u6ts",
-      "fetchedAt": "2026-10-22T18:23:47.419Z",
+      "fetchedAt": "2026-10-22T18:41:23.139Z",
       "job": {
         "id": "8db87f3f-30f0-4d95-80bc-5a5f5ab8bc99",
         "slug": "founding-forward-deployed-engineer-at-clera-t1u6ts",
@@ -222,7 +222,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/full-stack-software-engineer-design-at-clera-agwx9g",
-      "fetchedAt": "2026-10-22T18:23:48.148Z",
+      "fetchedAt": "2026-10-22T18:41:23.828Z",
       "job": {
         "id": "de0e820f-3b06-4077-b781-146947c17e42",
         "slug": "full-stack-software-engineer-design-at-clera-agwx9g",
@@ -248,7 +248,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/lead-research-engineer-data-quality-at-clera-7ulilv",
-      "fetchedAt": "2026-10-22T18:23:53.994Z",
+      "fetchedAt": "2026-10-22T18:41:24.525Z",
       "job": {
         "id": "876b9e4b-5f99-4fc3-907f-3fba02549f43",
         "slug": "lead-research-engineer-data-quality-at-clera-7ulilv",
@@ -274,7 +274,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/manager-project-manager-market-community-at-capital-one-il51sz",
-      "fetchedAt": "2026-10-22T18:23:54.717Z",
+      "fetchedAt": "2026-10-22T18:41:25.224Z",
       "job": {
         "id": "f1b4b4b3-9375-45e5-84a1-32128a8c52b5",
         "slug": "manager-project-manager-market-community-at-capital-one-il51sz",
@@ -300,7 +300,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/manager-project-manager-market-community-at-capital-one-jw1nta",
-      "fetchedAt": "2026-10-22T18:23:55.480Z",
+      "fetchedAt": "2026-10-22T18:41:25.922Z",
       "job": {
         "id": "10747029-0814-484d-8252-87a1ab5a8741",
         "slug": "manager-project-manager-market-community-at-capital-one-jw1nta",
@@ -326,7 +326,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/marketing-and-events-lead-at-clera-khvmr5",
-      "fetchedAt": "2026-10-22T18:23:58.369Z",
+      "fetchedAt": "2026-10-22T18:41:26.621Z",
       "job": {
         "id": "0b3af01d-2926-42c4-91b6-c401f5b66844",
         "slug": "marketing-and-events-lead-at-clera-khvmr5",
@@ -352,7 +352,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/principal-data-engineer-data-quality-and-at-wayve-g4fnp5",
-      "fetchedAt": "2026-10-22T18:24:02.600Z",
+      "fetchedAt": "2026-10-22T18:41:27.326Z",
       "job": {
         "id": "361688d7-3997-4d9c-8d2d-c8051dbeaca2",
         "slug": "principal-data-engineer-data-quality-and-at-wayve-g4fnp5",
@@ -387,7 +387,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/principal-validation-tech-lead-manager-l4-at-wayve-f3e8j5",
-      "fetchedAt": "2026-10-22T18:24:03.310Z",
+      "fetchedAt": "2026-10-22T18:41:28.013Z",
       "job": {
         "id": "5ce0c82b-eb3f-4bdf-a972-bbe247e77349",
         "slug": "principal-validation-tech-lead-manager-l4-at-wayve-f3e8j5",
@@ -422,7 +422,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/product-engineer-software-engineer-at-clera-ifz5vr",
-      "fetchedAt": "2026-10-22T18:24:04.030Z",
+      "fetchedAt": "2026-10-22T18:41:28.691Z",
       "job": {
         "id": "ca93ba36-a5d8-4aa3-992c-ef0e14fcd23c",
         "slug": "product-engineer-software-engineer-at-clera-ifz5vr",
@@ -448,7 +448,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/product-manager-evals-at-exa-n0c6t0",
-      "fetchedAt": "2026-10-22T18:24:05.435Z",
+      "fetchedAt": "2026-10-22T18:41:29.378Z",
       "job": {
         "id": "a891cb00-f55a-4c5f-8859-55947e771336",
         "slug": "product-manager-evals-at-exa-n0c6t0",
@@ -483,7 +483,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/product-manager-technical-product-support-at-anthropic-74stkv",
-      "fetchedAt": "2026-10-22T18:24:06.148Z",
+      "fetchedAt": "2026-10-22T18:41:30.070Z",
       "job": {
         "id": "f346f8df-58cd-49a0-aa25-3431ae650321",
         "slug": "product-manager-technical-product-support-at-anthropic-74stkv",
@@ -518,7 +518,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/regional-mobility-immigration-partner-at-bertelsmann-g1nyae",
-      "fetchedAt": "2026-10-22T18:24:07.544Z",
+      "fetchedAt": "2026-10-22T18:41:30.793Z",
       "job": {
         "id": "82b6e215-5e67-4eab-a081-5691f22b0bac",
         "slug": "regional-mobility-immigration-partner-at-bertelsmann-g1nyae",
@@ -553,7 +553,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/research-engineer-chip-design-rl-at-anthropic-fzgnfc",
-      "fetchedAt": "2026-10-22T18:24:08.250Z",
+      "fetchedAt": "2026-10-22T18:41:31.493Z",
       "job": {
         "id": "3e150039-87c6-415a-824b-9a97cb687acd",
         "slug": "research-engineer-chip-design-rl-at-anthropic-fzgnfc",
@@ -588,7 +588,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/roboticist-robot-foundation-model-at-wayve-us58pm",
-      "fetchedAt": "2026-10-22T18:24:09.669Z",
+      "fetchedAt": "2026-10-22T18:41:32.194Z",
       "job": {
         "id": "352b0afa-56d3-4b1b-aa36-af226189c9d8",
         "slug": "roboticist-robot-foundation-model-at-wayve-us58pm",
@@ -623,7 +623,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/senior-android-software-engineer-at-clera-sk90l4",
-      "fetchedAt": "2026-10-22T18:24:11.086Z",
+      "fetchedAt": "2026-10-22T18:41:32.931Z",
       "job": {
         "id": "62d9caa1-8f64-478b-9be7-6eb1be152ee6",
         "slug": "senior-android-software-engineer-at-clera-sk90l4",
@@ -649,7 +649,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/senior-control-system-designer-data-centers-at-aecom-c8p97s",
-      "fetchedAt": "2026-10-22T18:24:11.791Z",
+      "fetchedAt": "2026-10-22T18:41:33.644Z",
       "job": {
         "id": "c2c6adad-296e-4730-9c37-ff5abffe4f19",
         "slug": "senior-control-system-designer-data-centers-at-aecom-c8p97s",
@@ -675,7 +675,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/senior-project-manager-transit-systems-at-aecom-iqepv3",
-      "fetchedAt": "2026-10-22T18:24:12.551Z",
+      "fetchedAt": "2026-10-22T18:41:34.343Z",
       "job": {
         "id": "9c1be187-0efc-47f5-a6c6-aa79615f0570",
         "slug": "senior-project-manager-transit-systems-at-aecom-iqepv3",
@@ -701,7 +701,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/senior-software-engineer-developer-ai-at-verkada-6u66nf",
-      "fetchedAt": "2026-10-22T18:24:13.256Z",
+      "fetchedAt": "2026-10-22T18:41:35.047Z",
       "job": {
         "id": "dfe86bae-a146-4c1c-97fe-a6b24d3a0b4a",
         "slug": "senior-software-engineer-developer-ai-at-verkada-6u66nf",
@@ -736,7 +736,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/senior-staff-data-scientist-at-wayve-grtobz",
-      "fetchedAt": "2026-10-22T18:24:13.948Z",
+      "fetchedAt": "2026-10-22T18:41:35.739Z",
       "job": {
         "id": "0370b589-ed35-4f57-acdf-7de157dad8b5",
         "slug": "senior-staff-data-scientist-at-wayve-grtobz",
@@ -771,7 +771,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/staff-machine-learning-engineer-data-curation-at-wayve-iitcz8",
-      "fetchedAt": "2026-10-22T18:24:18.827Z",
+      "fetchedAt": "2026-10-22T18:41:36.438Z",
       "job": {
         "id": "6d2a562c-f444-45e6-9cf2-6c41baebcd62",
         "slug": "staff-machine-learning-engineer-data-curation-at-wayve-iitcz8",
@@ -806,7 +806,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/staff-machine-learning-engineer-robotics-at-wayve-k695qo",
-      "fetchedAt": "2026-10-22T18:24:19.627Z",
+      "fetchedAt": "2026-10-22T18:41:37.132Z",
       "job": {
         "id": "442c6e04-88a5-4adb-bd55-4f911695504a",
         "slug": "staff-machine-learning-engineer-robotics-at-wayve-k695qo",
@@ -841,7 +841,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/staff-software-engineer-finance-engineering-at-anthropic-1ym0h7",
-      "fetchedAt": "2026-10-22T18:24:20.288Z",
+      "fetchedAt": "2026-10-22T18:41:37.967Z",
       "job": {
         "id": "9bd1fa63-e49a-489d-8182-0fb90c67b955",
         "slug": "staff-software-engineer-finance-engineering-at-anthropic-1ym0h7",
@@ -876,7 +876,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/talent-ai-operator-at-clera-5gi6t0",
-      "fetchedAt": "2026-10-22T18:24:25.212Z",
+      "fetchedAt": "2026-10-22T18:41:38.661Z",
       "job": {
         "id": "f3db47e3-709c-472c-8886-42528754d870",
         "slug": "talent-ai-operator-at-clera-5gi6t0",
@@ -902,7 +902,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/technical-program-manager-agent-safety-and-at-anthropic-x9p2r8",
-      "fetchedAt": "2026-10-22T18:24:25.935Z",
+      "fetchedAt": "2026-10-22T18:41:39.356Z",
       "job": {
         "id": "62307b86-0a91-4605-b7fa-866a1ad765ce",
         "slug": "technical-program-manager-agent-safety-and-at-anthropic-x9p2r8",
@@ -937,7 +937,7 @@
     },
     {
       "url": "https://imbajobs.com/api/jobs/technical-writer-at-clera-n44hds",
-      "fetchedAt": "2026-10-22T18:24:26.660Z",
+      "fetchedAt": "2026-10-22T18:41:40.077Z",
       "job": {
         "id": "ecd3e77c-b34d-4019-9312-ffc411221dc1",
         "slug": "technical-writer-at-clera-n44hds",
