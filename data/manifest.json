@@ -1,13 +1,13 @@
 {
   "version": 1,
   "repository": "Daily-Sponsoring-Jobs",
-  "capturedAt": "2026-10-26T19:37:54.140Z",
+  "capturedAt": "2026-10-27T19:02:35.675Z",
   "inspected": 30,
-  "eligible": 23,
+  "eligible": 22,
   "rows": 20,
   "excluded": {
-    "unsupported_posting_polarity": 7
+    "unsupported_posting_polarity": 8
   },
-  "sourceSha256": "392838115ceb65f1e064b6216f4c79b4389f89a089b0489b202515a039804747",
-  "readmeSha256": "36b67440de2bb40d9ac60c28d5b847149220cf0b8a089f3295b40c0f84272c5d"
+  "sourceSha256": "0e6ed760557a44baaf46e592328b925faee70d4cebb899ba65e1c0cb5c5ae800",
+  "readmeSha256": "a206bfdf3c869c1082d9a4184000244c7c47f4ac624d2047fbddaa08d6eaa846"
 }
